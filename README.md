@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonanndes
+- 👋 Hi, I’m Sonandes (@Sonanndes)
 - 👀 I’m interested in Java and Minecraft
 - 🌱 I’m currently learning how to mod with minecraft neoforge
 

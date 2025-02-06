@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sonanndes
 - 👀 I’m interested in Java and Minecraft
-- 🌱 I’m currently learning how to mod with minecraft forge
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to mod with minecraft neoforge
 
 <!---
 Sonanndes/Sonanndes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
